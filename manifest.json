@@ -1,6 +1,6 @@
 {
     "name": "ClipMark",
-    "description": "",
+    "description": "Quickly copy any webpage as a markdown link to your clipboard with just one click.",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
