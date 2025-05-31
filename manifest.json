@@ -1,12 +1,13 @@
 {
-    "name": "Hello World",
-    "description": "Hello world chrome extension",
+    "name": "ClipMark",
+    "description": "",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
         "contextMenus",
         "activeTab",
-        "scripting"
+        "scripting",
+        "clipboardWrite"
     ],
     "background": {
         "service_worker": "background.js"
