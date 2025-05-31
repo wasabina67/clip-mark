@@ -18,6 +18,16 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
 
         navigator.clipboard.writeText(markdownLink)
           .then(() => {
+            const notification = document.createElement('div');
+            notification.textContent = 'Copied!';
+            // notification.style.cssText = '';
+            document.body.appendChild(notification);
+
+            setTimeout(() => {
+              notification.style.opacity = '0';
+              notification.style.transition = 'opacity 0.5s';
+              setTimeout(() => notification.remove(), 500);
+            }, 3000);
           }).catch(err => console.error(err.message));
       },
     }).catch(err => console.error(err.message));
