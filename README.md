@@ -69,6 +69,8 @@ activeTab
 scripting
 
 ```
+この拡張機能は、現在開いているタブのURLとタイトルを取得するためにscriptingの権限を使用しています。
+これにより、正確なマークダウン形式のリンクを作成することができます。
 ```
 
 clipboardWrite
