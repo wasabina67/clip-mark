@@ -16,12 +16,12 @@ WIP
 
 ## Developer Dashboard
 
-## Creating a ZIP file
+### Creating a ZIP file
 
 ```bash
 rm -rf clipmark.zip && zip -r clipmark.zip * -x "screenshots/*"
 ```
 
-## Build
+### Build
 
-### privacy
+#### privacy
