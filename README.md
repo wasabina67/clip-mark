@@ -43,6 +43,9 @@ Quickly copy any webpage as a markdown link to your clipboard with just one clic
 #### 単一用途
 
 ```
+ClipMarkは、現在表示しているウェブページをマークダウン形式のリンクとして、
+ワンクリックでクリップボードにコピーすることを単一の目的とした拡張機能です。
+これにより、ユーザーはマークダウンを使用するドキュメントに簡単にリンクを追加できます。
 ```
 
 #### 権限が必要な理由
