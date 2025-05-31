@@ -12,7 +12,13 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
     chrome.scripting.executeScript({
       target: { tabId: tab.id },
       func: () => {
-        alert("Hello World!")
+        const pageTitle = document.title || "title";
+        const pageUrl = window.location.href;
+        const markdownLink = `[${pageTitle}](${pageUrl})`;
+
+        navigator.clipboard.writeText(markdownLink)
+          .then(() => {
+          }).catch(err => console.error(err.message));
       },
     }).catch(err => console.error(err.message));
   }
