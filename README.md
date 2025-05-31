@@ -40,4 +40,33 @@ Quickly copy any webpage as a markdown link to your clipboard with just one clic
 
 ### Build / privacy
 
-WIP
+#### 単一用途
+
+```
+```
+
+#### 権限が必要な理由
+
+contextMenus
+
+```
+```
+
+activeTab
+
+```
+```
+
+scripting
+
+```
+```
+
+clipboardWrite
+
+```
+```
+
+リモートコード を使用していますか？
+
+[x] いいえ、リモートコード を使用していません
