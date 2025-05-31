@@ -22,6 +22,10 @@ WIP
 rm -rf clipmark.zip && zip -r clipmark.zip * -x "screenshots/*"
 ```
 
-### Build / privacy
+### Build / listing
+
+WIP
 
 ### Build / privacy
+
+WIP
