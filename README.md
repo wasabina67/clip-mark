@@ -3,6 +3,8 @@ ClipMark 😎
 
 Quickly copy any webpage as a markdown link to your clipboard with just one click.
 
+## Install
+
 ## How to use
 
 1. Open any webpage in Google Chrome
