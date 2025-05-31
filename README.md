@@ -11,7 +11,7 @@ ClipMark
 3. The link in markdown format will be copied to your clipboard
 4. You can paste it anywhere you like
 
-## WIP
+## Creating a ZIP file
 
 ```bash
 zip -r clipmark.zip * -x "*.git*" -x "*.vscode" -x "*.DS_Store"
