@@ -32,7 +32,7 @@ Quickly copy any webpage as a markdown link to your clipboard with just one clic
 
 - category: Tool
 - language: English
-- screenshot: 1280x800, JPEG
+- screenshot: `1280x800`, `JPEG`
 - Homepage URL
   - https://github.com/wasabina67/clip-mark
 - Support URL
