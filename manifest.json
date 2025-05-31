@@ -1,6 +1,6 @@
 {
     "name": "Hello World",
-    "description": "",
+    "description": "Hello world chrome extension",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
