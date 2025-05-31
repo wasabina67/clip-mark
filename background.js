@@ -1,13 +1,13 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
-    id: "hello-world",
-    title: "Hello World Extension",
+    id: "clip-mark",
+    title: "ClipMark",
     contexts: ["all"],
   });
 });
 
 chrome.contextMenus.onClicked.addListener((info, tab) => {
-  if (info.menuItemId === "hello-world" && tab.id) {
+  if (info.menuItemId === "clip-mark" && tab.id) {
     if (tab.url && tab.url.startsWith("chrome://")) return;
     chrome.scripting.executeScript({
       target: { tabId: tab.id },
