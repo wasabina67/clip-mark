@@ -24,7 +24,14 @@ rm -rf clipmark.zip && zip -r clipmark.zip * -x "screenshots/*" -x "zip/*"
 
 ### Build / listing
 
-WIP
+- description
+
+```
+Quickly copy any webpage as a markdown link to your clipboard with just one click.
+```
+
+- category: Tool
+- language: English
 
 ### Build / privacy
 
