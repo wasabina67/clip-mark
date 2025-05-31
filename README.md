@@ -5,6 +5,8 @@ Quickly copy any webpage as a markdown link to your clipboard with just one clic
 
 ## Install
 
+WIP
+
 ## How to use
 
 1. Open any webpage in Google Chrome
@@ -12,8 +14,14 @@ Quickly copy any webpage as a markdown link to your clipboard with just one clic
 3. The link in markdown format will be copied to your clipboard
 4. You can paste it anywhere you like
 
+## Developer Dashboard
+
 ## Creating a ZIP file
 
 ```bash
 rm -rf clipmark.zip && zip -r clipmark.zip * -x "screenshots/*"
 ```
+
+## Build
+
+### privacy
