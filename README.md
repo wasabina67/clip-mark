@@ -14,5 +14,5 @@ ClipMark 😎
 ## Creating a ZIP file
 
 ```bash
-zip -r clipmark.zip * -x "screenshots/*"
+rm -rf clipmark.zip && zip -r clipmark.zip * -x "screenshots/*"
 ```
