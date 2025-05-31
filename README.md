@@ -19,7 +19,7 @@ WIP
 ### Creating a ZIP file
 
 ```bash
-rm -rf clipmark.zip && zip -r clipmark.zip * -x "screenshots/*"
+rm -rf clipmark.zip && zip -r clipmark.zip * -x "screenshots/*" -x "zip/*"
 ```
 
 ### Build / listing
