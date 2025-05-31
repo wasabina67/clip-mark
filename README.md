@@ -1,8 +1,7 @@
 # clip-mark
 ClipMark 😎
 
-- This is an extension for Google Chrome
-- Quickly copy any webpage as a markdown link to your clipboard with just one click
+Quickly copy any webpage as a markdown link to your clipboard with just one click.
 
 ## How to use
 
