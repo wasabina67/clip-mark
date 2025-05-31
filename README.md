@@ -14,5 +14,5 @@ ClipMark 😎
 ## Creating a ZIP file
 
 ```bash
-zip -r clipmark.zip * -x "*.vscode" -x "screenshots/" -x "*.git*" -x "*.DS_Store"
+zip -r clipmark.zip * -x "*.vscode" -x "screenshots" -x "*.git*" -x "*.DS_Store"
 ```
