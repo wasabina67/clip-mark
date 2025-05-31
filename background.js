@@ -19,13 +19,13 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
         navigator.clipboard.writeText(markdownLink)
           .then(() => {
             const notification = document.createElement('div');
-            notification.textContent = 'Copied!';
+            notification.textContent = 'Copied! 😎';
             notification.style.position = 'fixed';
             notification.style.top = '20px';
             notification.style.right = '20px';
             notification.style.background = '#3CD2D2';
             notification.style.color = 'white';
-            notification.style.padding = '10px 20px';
+            notification.style.padding = '10px 10px';
             notification.style.borderRadius = '4px';
             notification.style.zIndex = '9999';
             notification.style.boxShadow = '0 2px 10px rgba(0,0,0,0.2)';
