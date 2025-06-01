@@ -5,7 +5,7 @@ Quickly copy any webpage as a markdown link to your clipboard with just one clic
 
 ## Install
 
-WIP
+https://github.com/wasabina67/clip-mark/raw/refs/heads/main/zip/1.0/clipmark.zip
 
 ## How to use
 
