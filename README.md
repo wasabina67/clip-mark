@@ -5,7 +5,11 @@ Quickly copy any webpage as a markdown link to your clipboard with just one clic
 
 ## Install
 
+### chrome web store
+
 https://chromewebstore.google.com/detail/clipmark/ljfcfnfiaecponbjcbgemoggojcilcch
+
+### Developer mode
 
 https://github.com/wasabina67/clip-mark/raw/refs/heads/main/zip/1.0/clipmark.zip
 
