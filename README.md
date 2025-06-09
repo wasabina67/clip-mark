@@ -1,6 +1,8 @@
 # clip-mark
 ClipMark 😎
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ljfcfnfiaecponbjcbgemoggojcilcch?logo=google-chrome&logoColor=white&label=Chrome%20Web%20Store&labelColor=4285F4&color=4285F4)](https://chromewebstore.google.com/detail/clipmark/ljfcfnfiaecponbjcbgemoggojcilcch)
+
 Quickly copy any webpage as a markdown link to your clipboard with just one click.
 
 ## Install
